@@ -1,0 +1,32 @@
+.top{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 200px;
+  top:200px;
+
+
+}
+.middle{
+  background: blue;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left:100px;
+  top:100px;
+
+
+
+}
+.bottom{
+  background: yellow;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+
+
+}
+body{
+  margin: 0px;
+}
